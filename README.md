@@ -1,7 +1,7 @@
 ## HELLO WORLD APP
 
 ### App Description
-`TODO://` App that allows user to change the properties of text and color on a phone screen.
+App that allows user to change the properties of text and color on a phone screen.
 
 ### App Walk-though
 

@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-https://imgur.com/iFVEsHe
+https://imgur.com/iFVEsHe.gif
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!

@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-https://s3.ezgif.com/save/ezgif-3-94c5604042f2.mov
+https://imgur.com/iFVEsHe
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
